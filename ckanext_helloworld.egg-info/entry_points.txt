@@ -1,4 +1,0 @@
-
-	[ckan.plugins]
-	helloworld=ckanext.helloworld.plugin:HelloWorldPlugin
-	
